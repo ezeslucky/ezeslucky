@@ -1,4 +1,4 @@
-
+   
 <p align="center">
   <h1 align="center"> AUROBINDO PATRA 👋</h1>
 </p>
@@ -44,9 +44,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ezeslucky&show_icons=true&locale=en&layout=compact" alt="ezeslucky" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezeslucky&show_icons=true&locale=en" alt="ezeslucky" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezeslucky&" alt="ezeslucky" /></p>
 
 
 
