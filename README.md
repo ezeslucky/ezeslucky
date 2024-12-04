@@ -11,8 +11,7 @@
 <ul>
   <li>👋 Hi, I’m Aurobindo Patra</li>
   <li>❤️ I love Developing and Programming.</li>
-  <li>🌱 In Progress ....... </li>
-  <li>💼 In Progress .......</li>
+ 
 <li>📫 How to reach me **aurobindolife888@gmail.com**</li>
 </ul>
 
