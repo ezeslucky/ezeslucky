@@ -18,3 +18,5 @@ Hi, I’m Aurobindo Patra <br>How to reach me **aurobindolife888@gmail.com**
 
 # Github Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ezeslucky&bg_color=010409&color=ffffff&line=00b344&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
