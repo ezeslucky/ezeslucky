@@ -15,6 +15,27 @@ Hi, I’m Aurobindo Patra <br>How to reach me **aurobindolife888@gmail.com**
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezeslucky&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 🤖 Job Automation Projects
+
+I've built simple but powerful browser-based automations that help job seekers apply faster and more efficiently.
+
+---
+## 🔁 Wellfound (AngelList) Auto Apply [Githubgist](https://gist.github.com/ezeslucky/f8c49ba122645ffb00832bf5946427d3)
+
+**Description:**  
+A plug-and-play Chrome Console script to automate applying on [Wellfound](https://wellfound.com/jobs). It fills in your application text and triggers the apply button—saving hours.
+
+**Highlights:**
+- Chrome/Brave DevTools-compatible
+- Custom `applicationText` block
+- Lightweight and reliable
+- One-click job apply
+
+---
+
+
+
+
 
 # Github Graph
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ezeslucky&bg_color=010409&color=ffffff&line=00b344&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
