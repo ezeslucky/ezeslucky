@@ -23,8 +23,7 @@ I've built simple but powerful browser-based automations that help job seekers a
  🔁 [Wellfound (AngelList) Auto Apply](https://gist.github.com/ezeslucky/f8c49ba122645ffb00832bf5946427d3)  
 Chrome Console script to automate applying on Wellfound.
 
-🔁 [InstaHyre Job Auto Apply](https://gist.github.com/ezeslucky/b55ded0a51a2f60dec0a4294f20724e0)  
-Automates the job application process on InstaHyre.
+
 
 
 
