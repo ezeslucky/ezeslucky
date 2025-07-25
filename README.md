@@ -1,6 +1,5 @@
-# 💫 About Me:
-
-Hi, I’m Aurobindo Patra <br>How to reach me **aurobindolife888@gmail.com**
+# Hi there 👋 I'm Aurobindo 
+I'm the Co-founder at [Deployi](https://deployi.me/) 🚀 and a Full-Stack Product Engineer.
 
 
 ## 🌐 Socials:
