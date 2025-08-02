@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Aurobindo
 
-I'm the Co-founder at [Deployi](https://deployi.me/)  and a Full-Stack Product Engineer.  
+I'm the Co-founder at [Deployi](https://deployi.me/)  and a Full-Stack & AI Product Engineer.  
 I love building infrastructure, tools, and open-source products to help developers ship faster.
 
 
