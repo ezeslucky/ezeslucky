@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Aurobindo
 
-I'm the Building at [Deployi](https://deployi.me/)  and a Full-Stack & AI Product Engineer.  
+I'm  a Full-Stack & AI Product Engineer.  
 I love building infrastructure, tools, and open-source products to help developers ship faster.
 
 
@@ -9,15 +9,14 @@ I love building infrastructure, tools, and open-source products to help develope
 ##  Career Snapshot
 -  Full-Stack Engineer with deep experience in systems design & backend engineering  
 - 🛠 Built 10+ end-to-end web apps & platforms (frontend + backend + infra)  
--  Currently working on [Deployi](https://deployi.me/) – VPS automation & CI/CD platform  
--  Go, Rust, Node.js, React, and Cloud-native enthusiast  
+-  Go, Rust,Python, Node.js, React, and Cloud-native enthusiast  
 -  Worked across multiple startups and shipped production-grade systems  
 -  Building job automation tools and bots for real-world use
 
 ---
 
 ##  Tech Stack
-`React.js` · `Next.js` · `JavaScript` · `TypeScript` · `Go` · `Rust` · `Actix` · `Node.js` · `Git`  
+`React.js` · `Next.js` · `JavaScript` · `TypeScript` · `Go` · `Python`. `Rust` · `Actix` · `Node.js` · `Git`  
 `MongoDB` · `PostgreSQL` · `Docker` · `Kubernetes` · `Linux` · `GitHub Actions` · `Prisma` · `Drizzle`  
 `Monorepo` · `WebSocket` · `WebRTC` · `Kafka` · `Redis` · `GraphQL` · `Nginx` · `AWS` · `CI/CD`  
 `Grafana` · `OpenAPI` · `Prometheus` · `Figma`
