@@ -3,7 +3,6 @@
 I'm  a Full-Stack & AI Product Engineer.  
 I love building infrastructure, tools, and open-source products to help developers ship faster.
 
-
 ---
 
 ##  Career Snapshot
