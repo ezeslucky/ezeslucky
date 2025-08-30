@@ -48,9 +48,8 @@ I’ve built powerful browser-based tools to automate job applications:
 ---
 ## 📬 Contact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:aurobindo.patra44@gmail.com)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/917439837730)  
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:aurobindo.patra44@gmail.com) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/917439837730)
 
 ---
 
