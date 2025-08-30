@@ -46,6 +46,13 @@ I’ve built powerful browser-based tools to automate job applications:
 [![Aurobindo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ezeslucky&bg_color=010409&color=ffffff&line=00b344&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+## 📬 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:aurobindo.patra44@gmail.com)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/917439837730)  
+
+
+---
 
 ##  Socials
 
