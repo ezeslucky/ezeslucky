@@ -15,7 +15,7 @@ I love building infrastructure, tools, and open-source products to help develope
 ---
 
 ##  Tech Stack
-`React.js` · `Next.js` · `JavaScript` · `TypeScript` · `Go` · `Python`. `Rust` · `Actix` · `Node.js` · `Git`  
+`React.js` · `Next.js` · `JavaScript` · `TypeScript` · `Go` · `Python`. `Rust` · `Actix` · `Node.js` · `Framer`  
 `MongoDB` · `PostgreSQL` · `Docker` · `Kubernetes` · `Linux` · `GitHub Actions` · `Prisma` · `Drizzle`  
 `Monorepo` · `WebSocket` · `WebRTC` · `Kafka` · `Redis` · `GraphQL` · `Nginx` · `AWS` · `CI/CD`  
 `Grafana` · `OpenAPI` · `Prometheus` · `Figma`
