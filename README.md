@@ -39,11 +39,6 @@ I’ve built powerful browser-based tools to automate job applications:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ezeslucky&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezeslucky&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-
-##  GitHub Activity Graph
-
-[![Aurobindo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ezeslucky&bg_color=010409&color=ffffff&line=00b344&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 ## 📬 Contact
