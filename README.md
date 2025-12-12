@@ -33,11 +33,11 @@ I’ve built powerful browser-based tools to automate job applications:
 
 ---
 
-##  GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ezeslucky&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ezeslucky&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezeslucky&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ # GitHub Stats  
+&nbsp;![](https://komarev.com/ghpvc/?username=imsks&color=brightgreen)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezeslucky&show_icons=true&rank_icon=github&locale=en" alt="ezeslucky" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezeslucky&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
+</p>
 
 
 ---
@@ -50,4 +50,6 @@ I’ve built powerful browser-based tools to automate job applications:
 [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F?logo=producthunt&logoColor=white)](https://www.producthunt.com/@ezeslucky)
 
 ---
+🌱 Always learning, building, and sharing.  
+📌 Check my [projects](https://github.com/ezeslucky?tab=repositories) or drop a message to chat!
 
