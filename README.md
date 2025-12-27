@@ -38,10 +38,8 @@ I’ve built powerful browser-based tools to automate job applications:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezeslucky&show_icons=true&rank_icon=github&locale=en" alt="ezeslucky" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezeslucky&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
+
 </p>
-![](https://github-readme-stats.vercel.app/api?username=ezeslucky&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ezeslucky&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezeslucky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
