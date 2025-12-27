@@ -61,7 +61,7 @@ I’ve built powerful browser-based tools to automate job applications:
 [![](https://visitcount.itsvg.in/api?id=ezeslucky&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/aurobindolk) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/AurobindoPatra) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]([https://buymeacoffee./aurobindolk](https://buymeacoffee.com/aurobindolk)) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AurobindoPatra) 
 
 🌱 Always learning, building, and sharing.  
 📌 Check my [projects](https://github.com/ezeslucky?tab=repositories) or drop a message to chat!
