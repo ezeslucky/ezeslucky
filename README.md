@@ -39,6 +39,10 @@ I’ve built powerful browser-based tools to automate job applications:
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezeslucky&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
 </p>
 </p>
+![](https://github-readme-stats.vercel.app/api?username=ezeslucky&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ezeslucky&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezeslucky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 ---
@@ -50,12 +54,6 @@ I’ve built powerful browser-based tools to automate job applications:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ezeslucky)
 [![Product Hunt](https://img.shields.io/badge/Product%20Hunt-DA552F?logo=producthunt&logoColor=white)](https://www.producthunt.com/@ezeslucky)
 
----
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ezeslucky&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ezeslucky&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezeslucky&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ezeslucky&icon=0&color=0)](https://visitcount.itsvg.in)
