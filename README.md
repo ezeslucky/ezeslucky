@@ -29,7 +29,10 @@ I’ve built powerful browser-based tools to automate job applications:
 - [💡 Wellfound (AngelList) Auto Apply](https://gist.github.com/ezeslucky/f8c49ba122645ffb00832bf5946427d3)  
   *A Chrome console script to automate applications on Wellfound.*
 
-> Simple JavaScript + DOM automation = serious time saved for job seekers 🚀
+- [💡 YC Combinator Auto Apply](https://gist.github.com/ezeslucky/0eef720de51bd1fd99f0c0da09c7dedc)  
+  *A Chrome console script to automate applications on YC Combinator.*
+
+
 
 ---
 
