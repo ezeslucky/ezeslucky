@@ -8,7 +8,7 @@ I love building infrastructure, tools, and open-source products to help develope
 ##  Career Snapshot
 -  Full-Stack Engineer with deep experience in systems design & backend engineering  
 - 🛠 Built 10+ end-to-end web apps & platforms (frontend + backend + infra)  
--  Go, Rust,Python, Node.js, React, and Cloud-native enthusiast  
+-  Go, Rust, Node.js, React, and Cloud-native enthusiast  
 -  Worked across multiple startups and shipped production-grade systems  
 -  Building job automation tools and bots for real-world use
 
